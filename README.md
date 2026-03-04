@@ -7,5 +7,7 @@ Team Member: Kate Li
 
 Research Goal: Which machine learning techniques would most accurately distinguish between benign and malignant skin lesions, and how can we incorporate non-image data (patient statistics) improve classification performance?
 
-Data Source: Kaggle: 
+Data Source: Synthetic patient demographics data from Kaggle "Skin Cancer Prediction Using Clinical Data" 
+and Melanoma Lesion dataset from Kaggle "Melanoma Skin Cancer Dataset of 10000 Images
+
 
