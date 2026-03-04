@@ -9,3 +9,6 @@ Research Goal: Which machine learning techniques would most accurately distingui
 
 Data Source: Synthetic patient demographics data from Kaggle "Skin Cancer Prediction Using Clinical Data" 
 and Melanoma Lesion dataset from Kaggle "Melanoma Skin Cancer Dataset of 10000 Images
+
+# Data Set Up
+"To run this analysis, download the .zip folder of images from the shared Box folder and place it in the /data directory of this repository.
